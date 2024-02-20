@@ -8,5 +8,6 @@
 	"id": "xanii.icon_freeze",
 	"name": "Icon Freeze",
 	"developer": "Xanii",
-	"description": "Freeze your icon set shown to others."
+	"description": "Freeze your icon set shown to others.",
+	"repository": "https://github.com/LXanii/Icon-Freeze"
 }
